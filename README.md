@@ -1,1 +1,1 @@
-this is a  netflik clone made with react js
+this is a  netflix clone made with react js
