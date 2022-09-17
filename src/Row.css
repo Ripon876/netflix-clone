@@ -28,6 +28,6 @@
 .largeposterimage img {
     max-height: 250px;
 }
-.largeposterimage img: hover{
+.largeposterimage img:hover{
     transform: scale(1.09);
 }
